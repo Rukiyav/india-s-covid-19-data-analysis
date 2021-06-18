@@ -36,7 +36,12 @@ How It Works
 ---------------
 
 1. Clone the repository in your local machine
-2. Open the Jupyter notebook file in your
+2. Open Anaconda Prompt in the project location
+3. Type command `ipython notebook covid -19 india-checkpoint`
+4. It will open the notebook in the default browser
+5. Once the code is loaded, From "Cell -> Run All"
+6. Then after couple of seconds your code will be executed and will give the desired result.
+
 
 Data is processed using pandas and numpy , data visulation is done by using seaborn
 Data is read by using pandas
