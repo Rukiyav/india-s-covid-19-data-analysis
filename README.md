@@ -9,12 +9,12 @@ This is about analysing India's covid 19 data using python
 
 **Project Tech stack Used:**
 ------------
-#Data Set Obtained from: kaggle
-#Project Description:
-##No. Of. Engineers: 1
-###Python Package Manager and Deployment: anaconda
-#Tool: jupyter notebook
-#Libraries:Numpy,pandas,seaborn,matplotlib
+* Data Set Obtained from: kaggle
+* Project Description:
+* No. Of. Engineers: 1
+* Python Package Manager and Deployment: anaconda
+* Tool: jupyter notebook
+* Libraries:Numpy,pandas,seaborn,matplotlib
 
 What Is This?
 -------------
@@ -23,16 +23,20 @@ This is a Python Jupyter Notebook file that collects, analyzes the Covid-19 data
 
 **Note**: This data is obtained from Kaggle data set.
 
+**Pre-Requisites needed to work on this project:**
+------------
+* Python: pip 20.2.3
+* Anaconda: conda 4.10.1
+* Numpy: 1.20.1
+* Pandas: 1.2.4
+* seaborn: 0.11.1
+* matplotlib: 3.3.4
+
 How It Works
 ---------------
 
-1. Clone the repository
-2. Register a new Uber application and make your Redirect URI `http://localhost:7000/submit` - ensure that both the `profile` and `history` OAuth scopes are checked.
-3. Fill in the relevant information in the `config.json` file in the root folder and add your client id and secret as the environment variables `UBER_CLIENT_ID` and `UBER_CLIENT_SECRET`.
-4. Run `export UBER_CLIENT_ID="`*{your client id}*`"&&export UBER_CLIENT_SECRET="`*{your client secret}*`"`
-5. Run `pip install -r requirements.txt` to install dependencies
-6. Run `python app.py`
-7. Navigate to http://localhost:7000 in your browser
+1. Clone the repository in your local machine
+2. Open the Jupyter notebook file in your
 
 Data is processed using pandas and numpy , data visulation is done by using seaborn
 Data is read by using pandas
