@@ -1,8 +1,6 @@
 India's covid-19 Data Analytics
 ==============================
 
-A file structure template, development environment and rule set for python data analytics projects on the data analytics team
-
 **About Project**
 ------------
 This is about analysing India's covid 19 data using python
